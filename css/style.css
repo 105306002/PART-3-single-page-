@@ -216,20 +216,20 @@ body{
 }
 
 .work-box.tree::after{
-	background-image: url('/Users/jennielin/Documents/PART 3 singlepage-layout/images/tree.jpg');
+	background-image: url('images/tree.jpg');
 }
 
 .work-box.building::after{
-	background-image: url('/Users/jennielin/Documents/PART 3 singlepage-layout/images/building.jpg');
+	background-image: url('images/building.jpg');
 }
 
 
 .work-box.lake::after{
-	background-image: url('/Users/jennielin/Documents/PART 3 singlepage-layout/images/lake.jpg');
+	background-image: url('images/lake.jpg');
 }
 
 .work-box.sky::after{
-	background-image: url('/Users/jennielin/Documents/PART 3 singlepage-layout/images/sky.jpg');
+	background-image: url('images/sky.jpg');
 }
 
 
